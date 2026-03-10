@@ -7,7 +7,6 @@ public class SomaeMedia {
 	public static void main(String args[]) {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		
 		System.out.print("Quantos números voce vai digitar: ");
 		int x = sc.nextInt();
 		Numeros[] vetor = new Numeros[x];
@@ -22,7 +21,6 @@ public class SomaeMedia {
 			soma += vetor[i].getNumeros();
 			System.out.print(vetor[i].getNumeros() + " ");
 		}
-		
 		System.out.printf("%nSOMA = %.2f%nMEDIA = %.2f", soma, soma / x);
 		sc.close();
 	}
