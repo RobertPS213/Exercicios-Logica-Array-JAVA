@@ -13,16 +13,6 @@ Processamento de Dados: Filtros de informações baseados em condições especí
 
 <h2>🛠️ Tecnologias Utilizadas</h2>
 
-☕ Java: Linguagem utilizada para a implementação de toda a lógica.
+Java: Linguagem utilizada para a implementação de toda a lógica.
 
-💻 Estrutura de Dados: Foco exclusivo em Arrays (Vetores).
-
-<h2>📂 Como testar os exercícios</h2>
-
-Certifique-se de ter o JDK instalado em sua máquina.
-
-Clone o repositório: git clone https://github.com/RobertPS213/Exercicios-Logica-Array-JAVA.git.
-
-Importe os arquivos .java em sua IDE de preferência (IntelliJ, Eclipse ou VS Code).
-
-Execute as classes individualmente para ver a saída no console.
+Estrutura de Dados: Foco exclusivo em Arrays (Vetores).
